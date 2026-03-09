@@ -9,9 +9,9 @@ Computer Science graduate with experience in Java, Python, JavaScript, and C. Pa
 - Enjoy working on brain teasers and puzzles in my free time
 
 ## Technical Skills
-Languages: Java, Python, JavaScript, TypeScript, C, C++, SQL, HTML/CSS
-Frameworks: React.js, Node.js, Springboot
-Tools: Git, Eclipse, IntelliJ IDEA, Visual Studio, VS Code, MySQL Workbench, Matplotlib
+Languages: Java, Python, JavaScript, TypeScript, C, C++, SQL, HTML/CSS \
+Frameworks: React.js, Node.js, Springboot \
+Tools: Git, Eclipse, IntelliJ IDEA, Visual Studio, VS Code, MySQL Workbench, Matplotlib \
 Concepts: Data Structures, Algorithms, Data Analysis, Object-Oriented Programming, Data Management
 
 ## Featured Projects
