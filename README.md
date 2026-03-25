@@ -26,4 +26,4 @@ Concepts: Data Structures, Algorithms, Data Analysis, Object-Oriented Programmin
 - Designing data processing systems
 
 ## Currently Working On
-🌐 [Personal portfolio website] (https://github.com/JesseNavarro13/portfolio)
+🌐 [Personal portfolio website](https://github.com/JesseNavarro13/portfolio)
