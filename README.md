@@ -1,11 +1,11 @@
 ## Hi, I'm Jesse 👋
 🎮 Gamer | 🎵 Music lover | 🏋️‍♂️ Weight lifter
 
-Computer Science graduate with experience in Java, Python, JavaScript, and C. Passionate about building software and analyzing data to solve real-world problems.
+Computer Science graduate with experience in Java, Python, JavaScript, C, and SQL. Passionate about building software, exploring computer hardware, and analyzing data to solve real-world problems.
 
 ## About Me
-- Interested in Software Engineering and Data Analysis
-- Graduated in Fall 2025 with honors in the major
+- Interested in Software Engineering, Information Technology, and Data Analysis
+- Graduated in Fall 2025 with honors in my major
 - Enjoy working on brain teasers and puzzles in my free time
 
 ## Technical Skills
@@ -16,14 +16,14 @@ Concepts: Data Structures, Algorithms, Data Analysis, Object-Oriented Programmin
 
 ## Featured Projects
 - Password and Cybersecurity Educational Web App
+- Personal Portfolio
 - Spotify Data Analysis
 - URL Shortener
 - File Organizer
 
 ## Currently Learning
-- Backend system design
-- APIs and distributed systems
-- Designing data processing systems
+- Networks
+- Cloud Computing
 
 ## Currently Working On
 🌐 [Personal portfolio website](https://github.com/JesseNavarro13/portfolio)
